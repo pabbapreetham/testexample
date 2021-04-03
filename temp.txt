@@ -2,3 +2,5 @@ bfkebwfjewblwfv
 dev
 3rd line
 neinfvew
+while 1:
+	print("Preetham is available")
